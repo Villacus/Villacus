@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Oier Villacus
+# 👋 ¡Hola! Soy Oier Villanueva
 
 **Ubicación:** Donostia, San-Sebastian, España  
 **Estudios:** Estudiante de Ingeniería Informática (UPV/EHU)  
@@ -37,8 +37,7 @@ También disfruto mejorando configuraciones de hardware y redes, jugar, gestiona
 ## 🌐 Contacto y redes
 
 - **GitHub:** [Villacus](https://github.com/Villacus)
-- **Discord:** Villacus#XXXX (ajusta el número si lo incluyes)
-- Puedes encontrarme también en foros, comunidades universitarias y otros proyectos colaborativos.
+- **Discord:** villa9225
 
 ---
 
