@@ -19,6 +19,25 @@
 
 ---
 
+## 💻 Tecnologías y Herramientas
+
+### Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Control de Versiones y Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Sistemas y Otros
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VPN](https://img.shields.io/badge/VPN-00B4AB?style=for-the-badge&logo=openvpn&logoColor=white)
+
+---
+
 ## 🗒️ Sobre mí
 
 Soy un apasionado de la tecnología, la programación y la optimización de sistemas. Me gusta aprender nuevas herramientas y lenguajes (Java, Python, Bash, R) y desarrollar proyectos que solucionen problemas reales.  
